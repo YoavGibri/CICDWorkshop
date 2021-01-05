@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "383848154743",
+    "project_id": "cicdworkshop-8390b",
+    "storage_bucket": "cicdworkshop-8390b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383848154743:android:2338c9e5f540263535a872",
+        "android_client_info": {
+          "package_name": "com.yoavgibri.cicdworkshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383848154743-tt9qtdas91d0jk6l9kit2u7rt09s1bfd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSuZ8FK1E-UzgTjQdcQ92b3Ncbo1ZET2w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "383848154743-tt9qtdas91d0jk6l9kit2u7rt09s1bfd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
